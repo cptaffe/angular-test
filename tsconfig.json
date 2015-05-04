@@ -15,6 +15,7 @@
     ],
     "files": [
         "./app.ts",
+        "./complete/app.ts",
         "./typings/angular2/angular2.d.ts"
     ]
 }
